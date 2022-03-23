@@ -1,17 +1,13 @@
 ---
 name: ToDo template
 about: See .github/ISSUE_TEMPLATE/custom.md
-title:  "[DATE]: [FEATURE NAME]"
+title:  "タイトルを入力"
 labels: 'ToDo'
-projects: 'kaitas/ToDo'
-assignees: 'kaitas'
+projects: 'dev-fjk/MyToDo'
+assignees: 'dev-fjk'
 
 ---
 
+## 内容
 
-## Description
-
-1. To
-2. Do
-
-- [ ] 
+## 関連リンク

@@ -2,7 +2,6 @@
 課題管理のメモ用リポジトリ
 
 - [Project](https://github.com/dev-fjk/MyTodo/projects/1)
-- [参考記事](https://qiita.com/o_ob/items/fd45fba2a9af0ce963c3)
 
 ## 準備
 1. このリポジトリをあなたのプライベートリポジトリにクローンします（パブリックリポジトリでテストしてからでいいです）。

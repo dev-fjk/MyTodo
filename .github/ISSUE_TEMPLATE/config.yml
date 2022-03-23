@@ -3,4 +3,4 @@ contact_links:
   - name: Add new ToDo
     about: made by config.yml
     # edit {username} and {repo} for your environment
-    url: https://github.com/kaitas/ToDo/issues/new?template=custom.md&projects=kaitas%2FToDo%2F1&labels=ToDo
+    url: https://github.com/dev-fjk/MyTodo/issues/new?template=custom.md&projects=kaitas%2FToDo%2F1&labels=ToDo
